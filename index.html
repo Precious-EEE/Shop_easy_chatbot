@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot App</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Welcome to ShopEasy Chatbot!</h1>
+    
+    <!-- Chatbot Container -->
+    <div class="chatbot-container">
+        <!-- Dialogflow Messenger Script -->
+        <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+        <df-messenger
+          intent="Default Welcome Intent"
+          chat-title="Shopeasy_chatbot"
+          agent-id="shopeasy-chatbot-xhsv"
+          language-code="en"
+        ></df-messenger>
+    </div>
+</body>
+</html>
