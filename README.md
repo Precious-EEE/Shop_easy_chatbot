@@ -1,1 +1,2 @@
 # Shop_easy_chatbot
+The shopEasy chatbot is a powerful tool designed to improve customer support with conversational AI. The design choices ensured the chatbot was responsive and reliable, particularly through the use of Dialogflow and SQLite design elements. Whereas intent mapping and database integration were challenges encountered in this process, their respective solutions ensured smooth operations that kept users satisfied. This chatbot is indeed well-equipped to handle customers' inquiries and smooth out the customer support process for ShopEasy.
